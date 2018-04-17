@@ -1,4 +1,4 @@
-# UDPping-simple-python
+# udpping-simple-python
 
 ## Client.py
 ### 简述
@@ -20,4 +20,4 @@
 + 在一主机上运行`Server.py`程序作为服务器
 + 修改`Client.py`中`serverName`为服务器的IP地址
 + 在另一台能和服务器通信的主机上运行`Client.py`
-# udpping-simple-python
+
